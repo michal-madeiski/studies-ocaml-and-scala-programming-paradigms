@@ -1,5 +1,5 @@
 # Programming Paradigms  - laboratory classes
-__stage of studies: 2nd year, 3th semester__
+__stage of studies: 2nd year, 3rd semester__
 
 Each lab class dir contains an implementation of tasks about the given topic.
 
