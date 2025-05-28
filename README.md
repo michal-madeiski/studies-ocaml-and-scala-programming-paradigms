@@ -13,7 +13,7 @@ Each lab class dir contains an implementation of tasks about the given topic.
 * Lab8 - tree structures
 * Lab9 - lazy evaluation
 * Lab10 - imperative programming
-* Lab11 - object oriented programming in scala
+* Lab11 - object-oriented programming in scala
 * Lab12 - concurrent programming part 1
 * Lab13 - concurrent programming part 2
 
